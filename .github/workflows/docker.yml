@@ -16,7 +16,7 @@ on:
       - master
   # This creates an environment variable called `IMAGE_NAME ` with the value `ghtoken_product_demo`.
 env:
-  IMAGE_NAME: ${{ github.repository }}
+  IMAGE_NAME: ${{ github.event.repository.name }}
 jobs:
   # This pushes the image to GitHub Packages.
   push:
