@@ -2,7 +2,7 @@
 
 Template for a dockerized spring boot application.
 
-Uses GitHub actions to build repository to the GitHub Package Registry
+Uses GitHub actions to build repository to the GitHub Package Registry.
 
 ## Getting started:
 
