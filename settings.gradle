@@ -3,4 +3,4 @@ pluginManagement {
         id 'org.jetbrains.kotlin.jvm' version '2.0.10'
     }
 }
-rootProject.name = 'Spring-Boot-Gradle-Docker'
+rootProject.name = 'spring-boot-gradle-docker'

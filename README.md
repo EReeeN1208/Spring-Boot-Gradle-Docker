@@ -1,4 +1,4 @@
-# Spring-Boot-Gradle-Docker
+# spring-boot-gradle-docker
 
 Template for a dockerized spring boot application.
 
@@ -6,7 +6,7 @@ Uses GitHub actions to build repository to the GitHub Package Registry.
 
 ## Getting started:
 
-Change 'Spring-Boot-Gradle-Docker' according to your project:
+Change 'spring-boot-gradle-docker' according to your project:
 - `./settings.gradle` - Line 6
 - `./src/main/resources/application.properties` - Line 1
 
